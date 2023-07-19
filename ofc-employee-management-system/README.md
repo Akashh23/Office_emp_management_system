@@ -1,2 +1,2 @@
 # ofc-emp-management-system
-Python-Django project tutorial from the scratch
+In this project, we have created an app using Django Framework, Django ORM, Django Queryset, Basic SQL (Database Knowledge), Basic HTML, CSS & Basic Bootstrap.
